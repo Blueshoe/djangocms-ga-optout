@@ -1,6 +1,6 @@
 include LICENSE.txt
-include README.rst
+include README.md
 # recursive-include ga-optout/locale *
-recursive-include djangocms_ga-optout/statics *
-recursive-include djangocms_ga-optout/templates *
-recursive-include djangocms_ga-optout/migrations *
+recursive-include djangocms_ga_optout/statics *
+recursive-include djangocms_ga_optout/templates *
+recursive-include djangocms_ga_optout/migrations *
